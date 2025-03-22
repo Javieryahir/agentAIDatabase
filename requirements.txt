@@ -1,0 +1,3 @@
+google-generativeai
+langgraph
+psycopg2-binary
